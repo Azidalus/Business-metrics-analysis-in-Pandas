@@ -17,4 +17,4 @@ We have data in the following format:
 With this data, we want to answers questions like:
 - Does the total payment for all first subscribtions cover the total cost of acquisition?
 - What percentage of users buy the subscription immediately on day 14?
-- By how many percentage points does n-day retention drop after showing the paywall?
+- By how many percentage points does n-day retention drop after showing the paywall? 
