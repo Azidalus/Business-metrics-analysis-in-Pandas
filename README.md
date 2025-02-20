@@ -2,14 +2,13 @@
 ## Table of contents
 * [Project background](https://github.com/Azidalus/Buisness-metrics-analysis-in-Pandas#Project-background)
 * [Data structure](https://github.com/Azidalus/Buisness-metrics-analysis-in-Pandas#Data-structure)
-* 
+* [Executive summary](https://github.com/Azidalus/Buisness-metrics-analysis-in-Pandas#Executive-summary)
 
-  
 ## Project background 
-Consider we just developed a new mobile app for sleep tracking on a subscription basis and want to see its commercial performance. The app is free for the first 14 days, and then user sees a paywall and needs to buy a subscription to continue using it.\
+Consider we just developed a new mobile app on a subscription basis and want to see its commercial performance. The app is free for the first 14 days, and then user sees a paywall and needs to buy a subscription to continue using it.\
 This project aims to answer business questions about the app's success.
 
-## Data structure & Problem statement
+## Data structure
 Data has the following format:        
 | user_id  | date_of_use |
 | ------------- | ------------- |
@@ -20,7 +19,7 @@ Data has the following format:
 | 1  | 11.11.2023  |
 
 ## Executive summary
-With this data, we want to answers questions like:
+With this data, the following questions are answered:
 - Does the total payment for all first subscribtions cover the total cost of acquisition?
 - What percentage of users buy the subscription immediately on day 14?
 - By how many percentage points does n-day retention drop after showing the paywall? 
