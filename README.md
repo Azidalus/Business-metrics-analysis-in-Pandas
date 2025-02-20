@@ -1,9 +1,9 @@
 # Payback-analysis
-## Aim
+## Project background 
 Consider we just developed a new mobile app for sleep tracking on a subscription basis and want to see its commercial performance. \
-In this project, I use Python to answer 3 business questions about the app's success.
+This project aims to answer business questions about the app's success.
 
-## Data & Problem statement
+## Data structure & Problem statement
 The app is free for the first 14 days, and then user sees a paywall and needs to buy a subscription to continue using it. \
 We have data in the following format:        
 | user_id  | date_of_use |
