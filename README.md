@@ -19,6 +19,7 @@ Data has the following format:
 | 1  | 10.11.2023  |
 | 1  | 11.11.2023  |
 
+## Executive summary
 With this data, we want to answers questions like:
 - Does the total payment for all first subscribtions cover the total cost of acquisition?
 - What percentage of users buy the subscription immediately on day 14?
