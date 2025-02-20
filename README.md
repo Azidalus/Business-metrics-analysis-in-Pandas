@@ -1,11 +1,16 @@
 # Payback-analysis
+## Table of contents
+* [Project background](https://github.com/Azidalus/Buisness-metrics-analysis-in-Pandas#Project-background)
+* [Data structure](https://github.com/Azidalus/Buisness-metrics-analysis-in-Pandas#Data-structure)
+* 
+
+  
 ## Project background 
-Consider we just developed a new mobile app for sleep tracking on a subscription basis and want to see its commercial performance. \
+Consider we just developed a new mobile app for sleep tracking on a subscription basis and want to see its commercial performance. The app is free for the first 14 days, and then user sees a paywall and needs to buy a subscription to continue using it.\
 This project aims to answer business questions about the app's success.
 
 ## Data structure & Problem statement
-The app is free for the first 14 days, and then user sees a paywall and needs to buy a subscription to continue using it. \
-We have data in the following format:        
+Data has the following format:        
 | user_id  | date_of_use |
 | ------------- | ------------- |
 | 0  | 12.11.2023  |
